@@ -10,6 +10,7 @@
 - `23 * 2` EPI questions
 - Done `Functional design patterns for Express.js`
 - Start `Rediscovering JavaScript`
+- Prep `HubSpot`
 
 ## Library
 
