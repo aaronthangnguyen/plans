@@ -10,7 +10,7 @@
 
 ## Jan
 
-- `23 * 2` EPI questions
-- Done `Functional design patterns for Express.js`
-- Start `Rediscovering JavaScript`
-- Prep `HubSpot`
+- [ ] `23 * 2` EPI questions
+- [x] Done `Functional design patterns for Express.js`
+- [ ] Start `Rediscovering JavaScript`
+- [ ] Prep `HubSpot`
