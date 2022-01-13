@@ -1,6 +1,5 @@
 # 2022
 
-- Exercise `daily`
 - Write internship journal `daily`
 - Done EPI by `May`
 - Apply for internships in `Fall`
