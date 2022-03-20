@@ -8,6 +8,6 @@
 ## Month
 
 - 26 questions
-- Learn Quantum Introduction
-- Learn Quantum Circuits
-- Study TypeScript 5-7
+- Learn [Quantum Introduction](https://github.com/anpaz/quantum-intro)
+- Learn [Quantum Circuits](https://observablehq.com/@anpaz/quantum)
+- Learn TypeScript 5-7
