@@ -1,16 +1,13 @@
-# 2022
+# PLAN
 
-- Write internship journal `daily`
-- Done EPI by `May`
-- Apply for internships in `Fall`
+## Year
 
-## HubSpot
+- Done EPI by May
+- Offers from MANGA companies
 
-...
+## Month
 
-## Jan
-
-- [ ] `23 * 2` EPI questions
-- [x] Done `Functional design patterns for Express.js`
-- [ ] Start `Rediscovering JavaScript`
-- [ ] Prep `HubSpot`
+- 26 questions
+- Learn Quantum Introduction
+- Learn Quantum Circuits
+- Study TypeScript 5-7
