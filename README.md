@@ -1,13 +1,23 @@
-# PLAN
+# Fall 2022 🍁
 
-## Year
+## 0. Tasks
+- [ ] Schedule
+- [ ] Library
+- [ ] Mock interviews
 
-- Done EPI by May
-- Offers from MANGA companies
+## 1. Targets
+- Gym
+- MANGA+ offers
+- Computer science 1
+- A philosophy of software design
+- Nonviolent communication
 
-## Month
+## 2. Habits
+- Gym 1.5 hour
+- DSA 1 hour
+- Leetcode 2 hours / 2 medium
+- Book 30 minutes
+- Mock interviews ???
 
-- 26 questions
-- Learn [Quantum Introduction](https://github.com/anpaz/quantum-intro)
-- Learn [Quantum Circuits](https://observablehq.com/@anpaz/quantum)
-- Learn TypeScript 5-7
+## 3. Schedule
+???
