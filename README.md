@@ -1,6 +1,7 @@
 # Fall 2022 🍁
 
 ## 0. Tasks
+- [ ] Resume
 - [ ] Schedule
 - [ ] Library
 - [ ] Mock interviews
