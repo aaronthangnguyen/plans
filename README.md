@@ -21,4 +21,21 @@
 - Mock interviews ???
 
 ## 3. Schedule
-???
+
+```
+MON
+09 - 14 | College
+
+TUE
+09 - 11 | College
+
+WED
+09 - 13 | College
+
+THU
+18 - 20 | College
+
+FRI
+07 - 14 | College
+17 - 19 | College
+```
