@@ -2,7 +2,7 @@
 
 ## 0. Tasks
 - [ ] Resume
-- [ ] Schedule
+- [x] Schedule
 - [ ] Library
 - [ ] Mock interviews
 
