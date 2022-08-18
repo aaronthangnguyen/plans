@@ -24,18 +24,27 @@
 
 ```
 MON
-09 - 14 | College
+05:00 - 06:30 | Gym
+07:00 - 09:00 | Study (2)
+09:30 - 13:30 | College
 
 TUE
-09 - 11 | College
+05:00 - 06:30 | Gym
+07:00 - 09:00 | Study (2)
+09:30 - 11:00 | College
+18:00 - 19:30 | College
 
 WED
-09 - 13 | College
+07:00 - 09:00 | Study (2)
+09:30 - 13:30 | College
 
 THU
-18 - 20 | College
+05:00 - 06:30 | Gym
+07:00 - 09:00 | Study (2)
+18:00 - 19:30 | College
 
 FRI
-07 - 14 | College
-17 - 19 | College
+05:00 - 06:30 | Gym
+07:30 - 13:30 | College
+17:30 - 18:30 | College
 ```
