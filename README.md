@@ -15,8 +15,8 @@
 
 ## 2. Habits
 - Gym 1.5 hour
-- DSA 1 hour
 - Leetcode 2 hours / 2 medium
+- DSA 1 hour
 - Book 30 minutes
 - Mock interviews ???
 
