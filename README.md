@@ -6,7 +6,6 @@
 
 ## 🚀 Tasks
 
-
 **Doing 🚧**
 
 - [ ] Grokking functional programming
