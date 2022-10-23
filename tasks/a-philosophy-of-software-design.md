@@ -2,8 +2,8 @@
 
 ```📝 Only a few chapters are useful at the moment```
 
-- [x] 11. Design it twice
-- [x] 12. Why write comments?
+- [x] 11. Design it twice `2022.10.23`
+- [x] 12. Why write comments? `2022.10.23`
 - [ ] 13. Comments should describe things that aren't obvious from the code
 
 ## NOTES
