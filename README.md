@@ -8,7 +8,9 @@
 
 **Doing 🚧**
 
-- [ ] [Grokking functional programming](tasks/grokking_functional_programming.md)
+- [ ] [Grokking functional programming](tasks/grokking-functional-programming.md)
+- [ ] [A philosophy of software design](tasks/a-philosophy-of-software-design.md)
+
 
 **Done ✅**
 
@@ -17,7 +19,6 @@
 **To-Do 🌱**
 
 - [ ] Overhaul plan
-- [ ] A philosophy of software design
 
 ## 🌾 Schedule
 
