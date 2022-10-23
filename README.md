@@ -8,7 +8,7 @@
 
 **Doing 🚧**
 
-- [ ] Grokking functional programming
+- [ ] [Grokking functional programming](tasks/grokking_functional_programming.md)
 
 **Done ✅**
 
