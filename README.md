@@ -1,27 +1,28 @@
-# Fall 2022 🍁
+# Jul - Sep 2024 🌋
 
-> Sometimes, the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function
->
-> -John Carmack
+# Personal
 
-## 🚀 Tasks
+- [ ] Drink water
+  - 2 jugs of 64oz daily
 
-**Doing 🚧**
+- [ ] Cardio x strength routine
+  - Strength: Mon Wed Fri
+  - Cardio: Tue Thu Sat
 
-- [ ] [Grokking functional programming](tasks/grokking-functional-programming.md)
-- [ ] [A philosophy of software design](tasks/a-philosophy-of-software-design.md)
+# Career
 
+- [ ] Blind 75
+  - Do 2-3 questions daily
+  - Finish by August
 
-**Done ✅**
+- [ ] Own Your Tech Career
+  - Read 1 chapter per week
+  - Implement actionable items
 
-- [x] MANGA+ offer
+- [ ] AWS SSA
+  - Study 3 topics per week
+  - Take 1 practice exam
 
-**To-Do 🌱**
-
-- [ ] Overhaul plan
-
-## 🌾 Schedule
-
-```
-...
-```
+- [ ] TinyURL
+  - Draft `README.md`
+  - Implement service
