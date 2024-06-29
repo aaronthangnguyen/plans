@@ -26,3 +26,8 @@
 - [ ] TinyURL
   - Draft `README.md`
   - Implement service
+
+# Notes
+
+- Calendar: what to do?
+- To-dos: which to do?
